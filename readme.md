@@ -1,7 +1,25 @@
 - 👋 Hi, I’m Bhavya Kawatra!
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on unique and innovative projects.
+
+- 🎓 Bachelor of Technology (B.Tech), Computer Science (2024).
+
+- 🌱 I’m currently learning Next.js!
+
+- 🌇 Delhi Native, with a passion for creating and developing software that addresses real-world problems.
+
+- 📚 Working as Full-Stack Developer, developing interactive and user-friendly applications using the MERN Stack. 
+
+<!-- - 💪🏽 Software Development, Web Development. -->
+<!--  -->
+- 💻 As for my future, I hope to one day work as a Full Stack Developer Role and work with a diverse team and solve complex problems in an innovative way. 
+
+- 📖 In my free time, you can find me solving DSA problems on CodeForces !
+
 - 📫 Mail : bhavyakawatra6@gmail.com 
+
+
+
+
+<!-- - 💞️ I’m looking to collaborate on unique and innovative projects. -->
 <!---
 bhavyak13/bhavyak13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
