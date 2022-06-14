@@ -8,8 +8,6 @@
 
 - 📚 Working as Full-Stack Developer, developing interactive and user-friendly applications using the MERN Stack. 
 
-<!-- - 💪🏽 Software Development, Web Development. -->
-<!--  -->
 - 💻 As for my future, I hope to one day work as a Full Stack Developer Role and work with a diverse team and solve complex problems in an innovative way. 
 
 - 📖 In my free time, you can find me solving DSA problems on CodeForces !
@@ -17,8 +15,8 @@
 - 📫 Mail : bhavyakawatra6@gmail.com 
 
 
-
-
+<!-- - 💪🏽 Software Development, Web Development. -->
+<!--  -->
 <!-- - 💞️ I’m looking to collaborate on unique and innovative projects. -->
 <!---
 bhavyak13/bhavyak13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
