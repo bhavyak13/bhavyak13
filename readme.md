@@ -2,7 +2,7 @@
 
 - 🎓 Bachelor of Technology (B.Tech), Computer Science (2024).
 
-- 🌱 I’m currently learning Next.js!
+- 🌱 I’m currently learning VueJs.
 
 - 🌇 Delhi Native, with a passion for creating and developing software that addresses real-world problems.
 
