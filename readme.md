@@ -1,3 +1,6 @@
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavyak13&label=Profile%20views&color=0e75b6&style=flat" alt="bhavyakawatra" /> </p>
+
 - 👋 Hi, I’m Bhavya Kawatra!
 
 - 🎓 Bachelor of Technology (B.Tech), Computer Science (2024).
